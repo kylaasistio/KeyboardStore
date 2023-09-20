@@ -1,0 +1,41 @@
+html, body{
+	font-size: 80%;
+	font-family: "Courier New", Courier, monospace;
+	letter-spacing: 0.15em;
+	background-color: #efefef;
+	text-align: center;
+}
+
+#page {
+	max-width: 940px;
+	min-width: 720px;
+	margin: 10px auto 10px auto;
+	padding: 20px;
+	border: 4px double #000;
+	background-color: #ffffff;
+}
+
+#logo{
+	width: 900px;
+	margin: 10px;
+	text-align: center;
+}
+
+ul{
+	width: 150px;
+	padding: 15px;
+	margin: 0px auto 0px auto;
+	border-top: 2px solid #000;
+	border-bottom: 1px solid #000;
+	text-align: center;
+	list-style-image: url("image/icon-plus.png");
+	line-height: 1.6em;
+}
+.navigation{
+
+}
+.pic{
+	width: 50px;
+	height: 50px;
+	text-align: center;
+}
